@@ -1,0 +1,33 @@
+# --- Secrets — never commit these ---------------------------------------
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# --- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Virtual environment ----------------------------------------------------
+.venv/
+venv/
+
+# --- Jupyter -----------------------------------------------------------
+.ipynb_checkpoints/
+
+# --- OS / editor cruft -------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+
+# --- Generated / large data (kept locally, not versioned) ---------------
+# The ACE 18 JSON cache is a build artifact (rebuilt automatically from the
+# PDF on first run if missing) and the sample DJO/certificate PDFs are
+# working data, not source — uncomment these once the project actually
+# becomes a git repo, if you don't want them versioned:
+# dados/*.json
+# dados/**/*.pdf

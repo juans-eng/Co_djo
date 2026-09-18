@@ -1,0 +1,2922 @@
+[
+  {
+    "table_num": 0,
+    "ncm_raw": "Capítulo 1(*)",
+    "mercosul_raw": "MP ou MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "Capítulo 2(*)",
+    "mercosul_raw": "MP ou MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "Capítulo 3(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "ex Capítulo 4(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "0401.10.10 a 0401.40.10",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "0401.50.10",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "0402.10.10 a 0402.21.20",
+    "mercosul_raw": "Devem ser elaborados a partir de leite produzido nos Estados Partes"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "0402.29.10 e 0402.29.20",
+    "mercosul_raw": "Devem ser elaborados a partir de leite produzido nos Estados Partes"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "0405.10.00",
+    "mercosul_raw": "Devem ser elaborados a partir de leite produzido nos Estados Partes"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "Capítulo 5(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "Capítulo 6(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "Capítulo 7(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "Capítulo 8(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "ex Capítulo 9(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "0901.21.00 e 0901.22.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "ex Capítulo 10(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "1006.10.10 a 1006.40.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "Capítulo 11(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "Capítulo 12(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "Capítulo 13(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "Capítulo 14(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "ex Capítulo 15(*)",
+    "mercosul_raw": "MP ou MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "1507.10.00 a 1507.90.19",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "1508.10.00 e 1508.90.00",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "1511.10.00",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "1512.11.10",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "1512.19.11 e 1512.19.19",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "1512.21.00 e 1512.29.10",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "1513.21.11 e 1513.21.19",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 0,
+    "ncm_raw": "1513.29.11 e 1513.29.19",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "1515.29.90",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "1515.90.10",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "1516.10.00",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "1517.10.00 e 1517.90.10",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "Capítulo 16(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "ex Capítulo 17(*)",
+    "mercosul_raw": "MP ou MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "1702.11.00",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "1702.19.00 a 1702.90.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "Capítulo 18(*)",
+    "mercosul_raw": "MP ou MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "Capítulo 19(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "ex Capítulo 20(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2008.70.10 a 2008.70.90",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "ex Capítulo 21(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2101.11.10",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "ex Capítulo 22(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2204.10.10",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2204.21.00 a 2204.29.20",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2207.10.10 e 2207.10.90",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2207.20.11 e 2207.20.19",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2208.30.10 e 2208.30.20",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2208.60.00 e 2208.70.00",
+    "mercosul_raw": "MP mais MaxMNO 40%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "Capítulo 23(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "ex Capítulo 24(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2404.12.00(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Processo biotecnológico"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2404.92.00 e 2404.99.00(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Processo biotecnológico"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "ex Capítulo 25(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2504.10.00 e 2504.90.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2515.11.00 a 2516.90.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2518.10.00 a 2520.20.90(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2523.10.00",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2523.29.10 e 2523.29.90",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2524.10.00 a 2525.30.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 1,
+    "ncm_raw": "2530.90.10 a 2530.90.90(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "Capítulo 26(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "Capítulo 27(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "ex Capítulo 28",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2803.00.19",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2814.10.00 e 2814.20.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2815.11.00 e 2815.12.00",
+    "mercosul_raw": "MP ou MaxMNO 45% sempre que cumpra com uma Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2827.32.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2827.49.21",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2833.22.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2833.29.60",
+    "mercosul_raw": "MP ou MaxMNO 45% sempre que cumpra com uma Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2836.99.13",
+    "mercosul_raw": "MP ou MaxMNO 45% sempre que cumpra com uma Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2847.00.00",
+    "mercosul_raw": "MP ou MaxMNO 45% sempre que cumpra com uma Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "ex Capítulo 29",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Separação isomérica ou Processo biotecnológico"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2901.10.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2901.23.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2902.11.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2902.20.00 a 2902.41.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2902.50.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2902.70.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2902.90.40",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2904.10.20",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2905.11.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2905.12.20",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2905.14.10",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2905.16.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2905.19.91",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2905.19.99",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2905.31.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2905.39.10",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2907.11.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2909.19.10",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2909.43.20 e 2909.44.11",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2909.49.21",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2909.49.31",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2910.20.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2914.11.00 a 2914.13.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 2,
+    "ncm_raw": "2914.39.10",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2914.40.10",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2915.31.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2915.33.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2915.39.32",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2916.14.10 e 2916.14.20",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2917.12.20",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2917.14.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2917.19.22 e 2917.19.30",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2917.32.00 a 2917.35.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2917.39.40",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2917.39.90",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2918.99.12",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2922.15.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2922.19.21",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2924.25.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2924.29.61",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2926.10.00",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2930.20.29",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2933.59.21",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "2939.80.10(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Separação isomérica ou Processo biotecnológico"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "ex Capítulo 30(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Purificação ou Separação isomérica ou Mudança de tamanho de partícula ou Produção de materiais padronizados ou Processo biotecnológico"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "3004.10.11 a 3004.90.99(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 3,
+    "ncm_raw": "3006.10.20 e ex3006.10.90",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Purificação ou Separação isomérica ou Mudança de tamanho de partícula ou Produção de materiais padronizados ou Processo biotecnológico"
+  },
+  {
+    "table_num": 4,
+    "ncm_raw": "3006.10.90 Aplica-se exclusivamente a: - Tecidos de malha de largura não superior a 30 cm, contendo em peso, 5% ou mais de fios elastômeros ou de fios de borracha, exceto: os veludos e pelúcias (incluídos os tecidos denominados de 'felpa longa' ou de 'pêlo comprido') e tecidos atoalhados (tecidos de anéis), de malha. - Aos tecidos de malha de largura não superior a 30 cm, exceto: os veludos e pelúcias (incluídos os tecidos denominados de 'felpa longa' ou de 'pêlo comprido') e tecidos atoalhados (tecidos de anéis), de malha. - Outros tecidos de malha- urdidura (incluídos os obtidos em teares para galões) de fibras artificiais, exceto: os veludos e pelúcias (incluídos os tecidos denominados de 'felpa longa' ou de 'pêlo comprido') e tecidos atoalhados (tecidos de anéis), de malha, e os tecidos de malha de largura superior a 30 cm,",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 4,
+    "ncm_raw": "contendo, em peso, 5% ou mais de fios de elastômeros ou de fios de borracha. 3006.93.00(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Processo biotecnológico"
+  },
+  {
+    "table_num": 4,
+    "ncm_raw": "Capítulo 31(*)",
+    "mercosul_raw": "MP, podendo utilizar materiais da mesma posição sempre que não superar 20% do valor ex-work ou MaxMNO 45%"
+  },
+  {
+    "table_num": 4,
+    "ncm_raw": "ex Capítulo 32(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Processo biotecnológico ou Mistura"
+  },
+  {
+    "table_num": 4,
+    "ncm_raw": "3204.17.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 4,
+    "ncm_raw": "ex Capítulo 33(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Processo biotecnológico ou Mistura"
+  },
+  {
+    "table_num": 4,
+    "ncm_raw": "3303.00.10 a 3307.90.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 4,
+    "ncm_raw": "ex Capítulo 34(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Processo biotecnológico"
+  },
+  {
+    "table_num": 4,
+    "ncm_raw": "3401.11.10 e 3401.11.90(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3401.19.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3401.20.10 e 3401.20.90(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3401.30.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3402.31.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3402.39.90(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3402.50.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3402.90.19(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3404.20.10(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3404.90.12(*)",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3405.10.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3405.90.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "ex Capítulo 35(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3502.90.90(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3506.10.90(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "Capítulo 36(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "Capítulo 37(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "ex Capítulo 38(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Processo biotecnológico"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3808.52.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3808.59.10 Aplica-se exclusivamente a inseticidas, fungicidas, herbicidas, inibidores de germinação e reguladores do crescimento das plantas.",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3808.59.21 a 3808.59.23",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3808.59.24(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3808.59.25",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3808.59.26 e 3808.59.29(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3808.61.00 a 3808.62.10",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3808.62.90 Aplica-se exclusivamente aos produtos apresentados em formas ou embalagens exclusivamente para uso direto em aplicações domissanitárias",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3808.69.10",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3808.69.90(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 5,
+    "ncm_raw": "3808.91.11 a 3808.91.96",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3808.91.97 Aplica-se exclusivamente a inseticidas à base de óleo mineral",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3808.91.99(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3808.92.11 a 3808.92.95",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3808.92.96 a 3808.92.99(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3808.93.11 a 3808.93.26",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3808.93.27 a 3808.99.20(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3808.99.91",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3808.99.92 a 3808.99.99(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3812.20.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3817.00.10(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3819.00.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3822.11.00 a 3822.13.00(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Purificação ou Separação isomérica ou Mudança de tamanho de partícula ou Produção de materiais padronizados ou Processo biotecnológico"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3822.19.30 a 3822.19.90(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Purificação ou Separação isomérica ou Mudança de tamanho de partícula ou Produção de materiais padronizados ou Processo biotecnológico"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3823.70.10(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3826.00.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "ex Capítulo 39(*)",
+    "mercosul_raw": "MSP ou MaxMNO 45% ou Reação química ou Processo biotecnológico"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3901.10.20 e 3901.10.30(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3901.20.19(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3901.20.29 e 3901.30.10(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3901.40.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3901.90.90 a 3902.90.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3903.19.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3903.90.90(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3904.10.10",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3904.10.20 e 3904.10.90",
+    "mercosul_raw": "MP ou MaxMNO 45% ou Reação química ou Processo biotecnológico"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3904.22.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3906.90.19(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 6,
+    "ncm_raw": "3907.29.39(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "3907.30.19 e 3907.30.21(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "3907.61.00 e 3907.69.00(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "3907.99.99(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "3908.10.23 a 3908.10.26(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "3912.31.19(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "3916.10.00 a 3926.90.90(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "Capítulo 40(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "Capítulo 41(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "Capítulo 42(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "Capítulo 43(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "Capítulo 44(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "Capítulo 45(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "Capítulo 46(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "Capítulo 47(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "ex Capítulo 48(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "4808.10.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "4817.10.00",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "4818.30.00",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "4819.10.00 a 4819.30.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "4820.20.00",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "4820.40.00",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "4820.90.00 a 4821.90.00",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "4823.90.99",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "ex Capítulo 49(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "4911.10.90",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "Capítulo 50(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "ex Capítulo 51(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "5102.11.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "5105.29.10 e 5105.29.91",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "5111.11.10 a 5113.00.12",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "5113.00.20",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "ex Capítulo 52(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "5201.00.10 a 5203.00.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 7,
+    "ncm_raw": "5205.11.00 a 5205.13.90 5205.21.00 a 5205.23.90",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º. MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5205.32.00 e 5205.33.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5205.42.00 e 5205.43.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5206.12.00 e 5206.13.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5206.22.00 e 5206.23.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5206.32.00 e 5206.33.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5206.42.00 e 5206.43.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5208.11.00 a 5212.25.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "ex Capítulo 53(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5301.21.10 a 5301.30.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5303.10.10",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5309.11.00 a 5310.10.90",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5311.00.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "ex Capítulo 54(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5402.20.10 e 5402.20.90",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5402.33.10 a 5402.33.90",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5402.44.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5402.46.00 a 5402.47.90",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5402.52.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5402.62.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5403.33.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5403.42.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5404.11.00 e 5404.12.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5404.19.90",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5407.10.11 a 5408.34.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "ex Capítulo 55(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5501.20.00 e 5501.30.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5503.19.10 a 5503.30.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5504.10.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5506.20.00 e 5506.30.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5509.32.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5512.11.00 a 5512.29.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5512.91.90",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5512.99.90 a 5516.94.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "ex Capítulo 56(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5601.22.19 e 5601.22.91",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5602.10.00 a 5602.90.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 8,
+    "ncm_raw": "5603.11.20 a 5603.12.10",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "5603.12.30 a 5603.13.10",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "5603.13.30 a 5603.13.90",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "5603.14.20 a 5603.91.90",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "5603.92.20 a 5603.92.40",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "5603.93.10 a 5603.94.90",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "5607.90.20 e 5607.90.90",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "Capítulo 57",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "Capítulo 58",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "ex Capítulo 59(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "5902.10.90 a 5903.90.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "5911.32.00",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "Capítulo 60",
+    "mercosul_raw": "MP mais MaxMNO 45%. Não se aplica de minimis , conforme inciso 4 do artigo 6º."
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "ex Capítulo 61(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6105.20.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6106.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6107.19.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6109.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6112.12.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6115.10.93",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6115.96.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "ex Capítulo 62(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6203.11.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6203.43.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6204.43.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6205.20.00 a 6205.90.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6206.40.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6211.11.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "Capítulo 63(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "ex Capítulo 64(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6402.19.00 e 6402.20.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6402.91.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6402.99.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6403.51.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6403.59.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6403.91.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "6403.99.90 a 6404.19.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 9,
+    "ncm_raw": "Capítulo 65(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "Capítulo 66(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "Capítulo 67(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "Capítulo 68(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "Capítulo 69(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "Capítulo 70(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "Capítulo 71(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "ex Capítulo 72(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7208.10.00 a 7208.90.00",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7209.16.00 a 7209.18.00",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7209.26.00 a 7209.90.00",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7210.12.00",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7210.30.10",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7210.41.10",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7210.49.10",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7210.50.00 a 7210.69.90",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7210.90.00",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7211.14.00 a 7211.29.20",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7211.90.90 a 7212.20.10",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7212.30.00 a 7212.50.90",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7213.10.00 e 7213.20.00",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7213.91.90",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7213.99.90 a 7216.33.00",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7216.50.00",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7217.10.11 a 7217.90.00",
+    "mercosul_raw": "MP, exceto das posições 7206 a 7217"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7219.33.00 a 7219.35.00",
+    "mercosul_raw": "MP, exceto das posições 7218 a 7223"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7219.90.90",
+    "mercosul_raw": "MP, exceto das posições 7218 a 7223"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7220.12.20",
+    "mercosul_raw": "MP, exceto das posições 7218 a 7223"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7222.20.00 e 7222.30.00",
+    "mercosul_raw": "MP, exceto das posições 7218 a 7223"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7223.00.00",
+    "mercosul_raw": "MP, exceto das posições 7218 a 7223"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7225.11.00 e 7225.19.00",
+    "mercosul_raw": "MP, exceto das posições 7224 a 7229"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7225.91.00 e 7225.92.00",
+    "mercosul_raw": "MP, exceto das posições 7224 a 7229"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7225.99.90 a 7226.19.00",
+    "mercosul_raw": "MP, exceto das posições 7224 a 7229"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7228.10.10",
+    "mercosul_raw": "MP, exceto das posições 7224 a 7229"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7228.20.00 a 7228.60.00",
+    "mercosul_raw": "MP, exceto das posições 7224 a 7229"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "ex Capítulo 73(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 10,
+    "ncm_raw": "7304.19.00 a 7304.39.90",
+    "mercosul_raw": "Devem ser produzidos a partir de produtos incluídos na posição 7206 ou 7207 ou 7218 ou 7224, fundidos e moldados ou lingotados nos Estados Partes."
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7304.49.00 a 7305.11.00",
+    "mercosul_raw": "Devem ser produzidos a partir de produtos incluídos na posição 7206 ou 7207 ou 7218 ou 7224, fundidos e moldados ou lingotados nos Estados Partes."
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7305.12.00 Não se aplica aos tubos para canos elaborados com soldadura continua por resistência elétrica, de diâmetro superior a 590 mm e inferior a 630 mm.",
+    "mercosul_raw": "Devem ser produzidos a partir de produtos incluídos na posição 7206 ou 7207 ou 7218 ou 7224, fundidos e moldados ou lingotados nos Estados Partes."
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7305.19.00 a 7306.29.00",
+    "mercosul_raw": "Devem ser produzidos a partir de produtos incluídos na posição 7206 ou 7207 ou 7218 ou 7224, fundidos e moldados ou lingotados nos Estados Partes."
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7306.30.00 Não se aplica a tubos de aço aluminizado.",
+    "mercosul_raw": "Devem ser produzidos a partir de produtos incluídos na posição 7206 ou 7207 ou 7218 ou 7224, fundidos e moldados ou lingotados nos Estados Partes."
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7306.50.00 a 7306.90.10",
+    "mercosul_raw": "Devem ser produzidos a partir de produtos incluídos na posição 7206 ou 7207 ou 7218 ou 7224, fundidos e moldados ou lingotados nos Estados Partes."
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7306.90.90",
+    "mercosul_raw": "Devem ser produzidos a partir de produtos incluídos na posição 7206 ou 7207 ou 7218 ou 7224, fundidos e moldados ou lingotados nos Estados Partes."
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7308.10.00 e 7308.20.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7309.00.10 a 7309.00.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7310.10.10 a 7311.00.00",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7321.11.00",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7321.81.00",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7326.90.10",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "7326.90.90",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "Capítulo 74(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "Capítulo 75(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "Capítulo 76(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "Capítulo 78(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "Capítulo 79(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "Capítulo 80(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "Capítulo 81(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "ex Capítulo 82(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "8207.19.10 Aplica-se exclusivamente às brocas PDC com corpo de aço e cabeçal de tungstênio",
+    "mercosul_raw": "MaxMNO 50%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "8207.30.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "ex Capítulo 83(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "8301.10.00",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "ex Capítulo 84(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "8401.10.00 e 8401.20.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 11,
+    "ncm_raw": "8401.40.00 a 8402.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8403.10.90 a 8406.90.29",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8407.10.00 a 8407.29.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8407.90.00 a 8408.10.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8408.90.10 a 8409.10.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8410.11.00 a 8412.21.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8412.29.00 a 8413.19.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8413.40.00 a 8414.10.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8414.30.19",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8414.30.99 a 8414.40.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8414.51.10",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8414.59.10 e 8414.59.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8414.70.00 a 8414.90.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8414.90.31 a 8414.90.40",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8415.10.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8415.20.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8415.81.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8415.82.90 a 8417.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8418.50.10 e 8418.50.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8418.69.10 e 8418.69.20",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8418.69.91 e 8418.69.99",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8418.99.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8419.20.00 a 8419.89.99",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8419.90.20 a 8421.11.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8421.12.90 a 8421.22.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8421.29.11 a 8421.29.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8421.39.10 a 8421.39.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8421.91.91 a 8421.99.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8421.99.91 e 8421.99.99",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8422.19.00 a 8422.40.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8422.90.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8423.20.00 a 8423.89.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8423.90.29",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8424.20.00 a 8424.30.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8424.41.00 Não se aplica a aparelhos manuais.",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8424,49.00 a 84.24.82.29",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 12,
+    "ncm_raw": "8424.82.90 Não se aplica a aparelhos manuais.",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8424.89.90 a 8425.11.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8425.19.90 a 8425.41.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8425.49.90 a 8430.69.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8431.10.90 a 8432.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8433.20.10 a 8433.60.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8433.90.90 a 8440.10.11",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8440.10.20 a 8443.19.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8443.31.11 a 8443.32.99",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8443.39.10 a 8443.91.99",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8443.99.60",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; e II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8444.00.10 a 8447.12.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8447.20.21 a 8448.59.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8448.59.22 a 8449.00.99",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8450.20.10 a 8450.90.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8451.10.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8451.29.10 a 8451.30.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8451.30.99 a 8451.80.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8451.90.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8452.21.10 a 8452.30.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8452.90.91 a 8460.90.11",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8460.90.19 a 8467.19.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8467.29.93",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8467.81.00 a 8467.99.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8468.20.00 a 8468.80.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8468.90.20 e 8468.90.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8470.50.10",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 13,
+    "ncm_raw": "8470.50.90 a 8470.90.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8471.30.11 a 8471.90.90",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8472.10.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8472.30.10 a 8472.30.30",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8472.30.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8472.90.10 e 8472.90.20",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8472.90.30",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8472.90.51 e 8472.90.59",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8472.90.91 e 8472.90.99",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8473.29.10",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8473.30.41 a 8473.30.49",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8473.40.10",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8473.40.90 Aplicável apenas para as partes e acessórios das máquinas para tratamento de textos.",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 14,
+    "ncm_raw": "8473.50.10",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8473.50.50",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8474.10.00 a 8479.89.22",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8479.89.40 a 8479.89.99",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8479.90.90 a 8481.10.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8481.20.90 a 8481.40.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8481.80.21 e 8481.80.29",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8481.80.39",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8481.80.92 a 8481.80.99",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8481.90.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8483.10.50",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8483.40.10 e 8483.40.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8483.60.11 a 8483.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8484.20.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8485.10.00 a 8485.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8486.20.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8487.10.00 e 8487.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "ex Capítulo 85(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8501.33.10 a 8501.34.20",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8501.40.21 a 8501.64.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8501.72.90 a 8502.40.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8503.00.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8504.21.00 a 8504.23.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8504.33.00 e 8504.34.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8504.40.30",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8504.40.50",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8504.40.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8504.90.30 e 8504.90.40",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8505.20.10 e 8505.20.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8505.90.80 e 8505.90.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8508.60.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8510.20.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 15,
+    "ncm_raw": "8510.90.20 e 8510.90.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 16,
+    "ncm_raw": "8511.80.30",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 16,
+    "ncm_raw": "8514.11.00 a 8515.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 16,
+    "ncm_raw": "8517.13.00 a 8517.14.90",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 16,
+    "ncm_raw": "8517.18.90 a 8517.62.55",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 16,
+    "ncm_raw": "8517.62.59 a 8517.62.72",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 16,
+    "ncm_raw": "8517.62.77 a 8517.62.96",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 16,
+    "ncm_raw": "8517.69.00",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 16,
+    "ncm_raw": "8517.79.00",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 16,
+    "ncm_raw": "8519.81.20",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 16,
+    "ncm_raw": "8521.10.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 16,
+    "ncm_raw": "8521.10.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 17,
+    "ncm_raw": "8523.52.10 e 8523.52.90",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 17,
+    "ncm_raw": "8524.11.00 a 8524.99.00",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; e II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 17,
+    "ncm_raw": "8525.50.19",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 17,
+    "ncm_raw": "8525.50.29 e 8525.60.10",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 17,
+    "ncm_raw": "8525.60.90",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 17,
+    "ncm_raw": "8525.81.00 e 8525.89.12",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 17,
+    "ncm_raw": "8525.89.21",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 17,
+    "ncm_raw": "8526.10.00 e 8526.91.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 17,
+    "ncm_raw": "8528.52.00",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 17,
+    "ncm_raw": "8528.62.00",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 17,
+    "ncm_raw": "8528.71.11",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8529.90.12",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8529.90.30 e 8529.90.40",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8529.90.50",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8530.10.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8530.80.90 e 8530.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8531.20.00",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8537.10.11 a 8537.10.20",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8538.90.10",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8540.20.20",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8541.51.00 e 8541.59.00",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8543.10.00 a 8543.30.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8543.70.12",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 18,
+    "ncm_raw": "8543.70.14 a 8543.70.19",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8543.70.39",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8543.70.91",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "Capítulo 86",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "ex Capítulo 87 1 (*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8701.10.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8701.30.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8701.94.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8701.95.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8704.10.10 e 8704.10.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8706.00.20",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8707.90.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8708.29.11 a 8708.29.19",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8708.30.11",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8708.40.11 e 8708.40.19",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8708.50.11 a 8708.50.19",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8708.50.91",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8708.70.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8708.94.11 a 8708.94.13",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8709.11.00 a 8709.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8714.99.10 a 8714.99.90",
+    "mercosul_raw": "MP mais MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8716.20.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "ex Capítulo 88(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8802.11.00 a 8802.60.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8805.10.00 a 8807.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "ex Capítulo 89(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8901.10.00 a 8902.00.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "8904.00.00 a 8907.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 19,
+    "ncm_raw": "ex Capítulo 90(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9002.11.20",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9005.80.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9005.90.90 e 9006.30.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9006.59.30",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9007.10.00 a 9007.92.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9010.10.10 a 9010.50.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9010.90.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9011.10.00 a 9012.90.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9013.10.90 e 9013.20.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9013.90.00 a 9017.10.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9017.90.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9018.11.00 a 9018.20.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9018.41.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9018.49.40 e 9018.49.91",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9018.50.10 a 9018.90.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9018.90.31 a 9018.90.94",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9019.10.00 a 9019.20.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9022.12.00 a 9022.90.99",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9024.10.10 a 9024.90.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9027.10.00 a 9028.10.19",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9029.10.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9030.10.10 e 9030.10.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9030.20.30 a 9030.32.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9030.33.11 e 9030.33.19",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9030.33.29 e 9030.33.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9030.39.10",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 20,
+    "ncm_raw": "9030.39.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 21,
+    "ncm_raw": "9030.40.10 a 9030.82.90",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 21,
+    "ncm_raw": "9030.84.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 21,
+    "ncm_raw": "9030.89.30 a 9030.89.90",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 21,
+    "ncm_raw": "9030.90.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 21,
+    "ncm_raw": "9030.90.90",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 21,
+    "ncm_raw": "9031.10.00 a 9031.49.20",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 21,
+    "ncm_raw": "9031.80.11 a 9031.80.30",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 21,
+    "ncm_raw": "9031.80.40",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 21,
+    "ncm_raw": "9031.80.50 a 9031.90.90",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 21,
+    "ncm_raw": "9032.89.11",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 21,
+    "ncm_raw": "9032.89.21 a 9032.89.29",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "9032.89.81 a 9032.89.83",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "9032.89.84",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "9032.89.89",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso que implemente a função de processamento central (placa principal); II- Integração da placa de circuito impresso montada conforme o item I, das demais placas de circuito impresso (se houver) e das outras partes elétricas, mecânicas e dos subconjuntos na formação do produto final; e III- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "9032.90.10",
+    "mercosul_raw": "I- Montagem e soldagem de todos os componentes na placa de circuito impresso; II- Configuração final do produto, instalação do software (quando for o caso) e testes de funcionamento"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "Capítulo 91(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "Capítulo 92(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "Capítulo 93(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "ex Capítulo 94(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "9402.90.10 e 9402.90.20",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "9406.10.10",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "9406.20.00 e 9406.90.20",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "Capítulo 95(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "ex Capítulo 96(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "9620.00.00",
+    "mercosul_raw": "MaxMNO 45%"
+  },
+  {
+    "table_num": 22,
+    "ncm_raw": "Capítulo 97(*)",
+    "mercosul_raw": "MP ou MaxMNO 45%"
+  }
+]

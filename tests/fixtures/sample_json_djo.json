@@ -1,0 +1,65 @@
+{
+    "Código da aprovação DJO": "94049000-265640327",
+    "Número da DJO": "5640327",
+    "Data de apresentação": "23 de Julho de 2026",
+    "Razão social do produtor": {
+        "Razão social": "ALTENBURG TÊXTIL S.A. 75.293.662/0001-04",
+        "CNPJ/CPF": "75.293.662/0001-04",
+        "Inscrição Estadual": "251141020"
+    },
+    "Domicílio legal e parque industrial do produtor": {
+        "Endereço": "BR-470, KM 61 - NR.7235 - Bairro BADENFURT - CEP 89070-205 - BLUMENAU - SC - BRASIL",
+        "Tel": "4733311516",
+        "E-mail": "fabiano@altenburg.com.br"
+    },
+    "Razão social do exportador": {"Razão social": "", "CNPJ/CPF": "", "Inscrição Estadual": ""},
+    "Domicílio legal e parque industrial do exportador": {"Endereço": "", "Tel": "", "E-mail": ""},
+    "Código NCM": "9404.90.00",
+    "NALADI": "9404.90.00",
+    "Denominação comercial do produto a exportar": "Suportes elásticos para camas (somiês); colchões, edredões, almofadas, pufes, travesseiros e artigos semelhantes.",
+    "Valor FOB (USD)": "7,39",
+    "Unidade de medida": "PE",
+    "Descrição do processo produtivo": "CORTAR TECIDO PARA FORMAR CAPA DO TRAVESSEIRO, COSTURAR CAPA, VIRAR E REVISAR, APLICAR SOUTACHE E COSTURAR, EMBUTIR E ENCHER COM FIBRA DE POLIÉSTER, FECHAR TRAVESSEIRO, APLICAR ETIQUETAS, BATER TRAVESSEIRO, EMBALAR, SOLDAR E ENSACAR.",
+    "Materiales": {
+        "originarios_estado_parte_produtor": {
+            "Items": [
+                {
+                    "NCM/SH": "[Não Informado]",
+                    "Descrição": "LINHA T.140",
+                    "País origem": "BRASIL",
+                    "Valor (US$)": "[Não Informado]",
+                    "% s/Valor FOB": "0%",
+                    "Fornecedor/Fabricante": "DISPONIBLE À SOLITUD DE LAS AUTORIDADES COMPETENTES"
+                }
+            ],
+            "Somatório": "0%"
+        },
+        "originarios_outros_estados_partes": {"Items": [], "Somatório": ""},
+        "nao_originarios": {
+            "Items": [
+                {
+                    "NCM/SH": "5208.22.00",
+                    "Descrição": "TECIDO PERCAL 233 FIOS 134 G/M2 100% ALGODÃO",
+                    "País origem": "CHINA",
+                    "Valor (US$)": "0,97",
+                    "% s/Valor FOB": "13,13%",
+                    "Fornecedor/Fabricante": "ASCENSUS TRADING E LOGISTICA LTDA"
+                },
+                {
+                    "NCM/SH": "5503.20.90",
+                    "Descrição": "FIBRA DE POLIÉSTER",
+                    "País origem": "CHINA",
+                    "Valor (US$)": "1,45",
+                    "% s/Valor FOB": "19,62%",
+                    "Fornecedor/Fabricante": "ASCENSUS TRADING E LOGISTICA LTDA"
+                }
+            ],
+            "Somatório": "32,75%"
+        },
+        "terceiros_paises_ptc": {"Items": [], "Somatório": ""},
+        "Porcentagem Total de Matérias Primas, Componentes ou Partes": "32,75%",
+        "Valor agregado no processo Industrial (Deduzidos os tributos restituídos ou a restituir em caso de exportação)": "67,25%",
+        "Preço FOB": "100%"
+    },
+    "Observações": ""
+}

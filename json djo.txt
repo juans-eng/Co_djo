@@ -1,0 +1,29 @@
+{"Número da DJO":"5640327",
+  "Data de apresentação":"23 de Julho de 2026",
+  "Razão social do produtor:"ALTENBURG TÊXTIL S.A. 75.293.662/0001-04 CNPJ/CPF: 75.293.662/0001-04 Inscrição Estadual: 251141020",
+  "Domicílio legal e parque industrial":{"Endereço": " BR-470, KM 61 - NR.7235 , Tel:+55 (47) 3331-1516 E-mail:fabiano@altenburg.com.br - Bairro BADENFURT - CEP 89070-205 - BLUMENAU - SC - BRASIL" , "Tel":" 4733311516", "E-mail":"fabiano@altenburg.com.br"},
+  "Razão social do exportador":"",
+  "Domicílio legal e parque industrial":"",
+  "Código NCM - NALADI":"9404.90.00",
+  "Valor FOB (USD)":"7,39",
+  "Unidade de medida":"PE",
+"Descrição do processo produtivo":"CORTAR TECIDO PARA FORMAR CAPA DO TRAVESSEIRO, COSTURAR CAPA, VIRAR E REVISAR, APLICAR SOUTACHE E COSTURAR, EMBUTIR E ENCHER COM FIBRA DE 
+POLIÉSTER, FECHAR TRAVESSEIRO, APLICAR ETIQUETAS, BATER TRAVESSEIRO, EMBALAR, SOLDAR E ENSACAR.",
+  "Materiais utilizados:"table_moepp",
+"Somatório":"0%",
+  "Materiais originários do Estado Parte produtor":"table_moepp.csv
+"Somatório":"",
+  "Materiais originários de outros Estados Partes":"table_mooep.csv
+"Somatório":"",
+  "Materiais não originários":"table_mno.csv"
+  "Somatório": "32,75%",
+  "Materiais de terceiros países que tenham cumprido com a PTC":"tabela_mtpPTC.csv
+"Somatório": "",
+  "Código da aprovação DJO":  "94049000-265640327"
+  "Denominação comercial do produto a exportar": "Suportes elásticos para camas (somiês); colchões, edredões, almofadas, pufes, travesseiros e artigos
+  ALMOHADA LEVITARE HOME COLLECTION 50CM X 70CM - TELA: 100% ALGODÓN, RELLENO: 100% POLIÉSTER"
+ 
+   "Observações":""
+   "Porcentagem Total de Matérias Primas, Componentes ou Partes": "32,75%",
+   "Valor agregado no processo Industrial (Deduzidos os tributos restituídos ou a restituir em caso de exportação)": "67,25%",
+   "Preço FOB":"100%"}
